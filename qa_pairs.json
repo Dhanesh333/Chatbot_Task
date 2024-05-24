@@ -1,0 +1,846 @@
+[
+    {
+        "question": "When did Such chatbots often use deep learning and natural language processing, but simpler chatbots have existed for ____.?",
+        "answer": "decades"
+    },
+    {
+        "question": "When did Since ____, the field has gained widespread attention due to the popularity of OpenAI's ChatGPT, followed by alternatives such as Microsoft's Copilot and Google's Gemini.?",
+        "answer": "late 2022"
+    },
+    {
+        "question": "What is OpenAI?",
+        "answer": "OpenAI"
+    },
+    {
+        "question": "What is ChatGPT?",
+        "answer": "ChatGPT"
+    },
+    {
+        "question": "What is Microsoft?",
+        "answer": "Microsoft"
+    },
+    {
+        "question": "What is Google?",
+        "answer": "Google"
+    },
+    {
+        "question": "What is Gemini?",
+        "answer": "Gemini"
+    },
+    {
+        "question": "Who is GPT-4?",
+        "answer": "GPT-4"
+    },
+    {
+        "question": "What is Gemini?",
+        "answer": "Gemini"
+    },
+    {
+        "question": "When did In ____, Alan Turing's famous article \"Computing Machinery and Intelligence\" was published, which proposed what is now called the Turing test as a criterion of intelligence.?",
+        "answer": "1950"
+    },
+    {
+        "question": "Who is Alan Turing's?",
+        "answer": "Alan Turing's"
+    },
+    {
+        "question": "What is Computing Machinery and Intelligence?",
+        "answer": "Computing Machinery and Intelligence"
+    },
+    {
+        "question": "Where is Turing?",
+        "answer": "Turing"
+    },
+    {
+        "question": "Who is Joseph Weizenbaum's?",
+        "answer": "Joseph Weizenbaum's"
+    },
+    {
+        "question": "What is ELIZA?",
+        "answer": "ELIZA"
+    },
+    {
+        "question": "When did The notoriety of Turing's proposed test stimulated great interest in Joseph Weizenbaum's program ELIZA, published in ____, which seemed to be able to fool users into believing that they were conversing with a real human.?",
+        "answer": "1966"
+    },
+    {
+        "question": "Who is Weizenbaum?",
+        "answer": "Weizenbaum"
+    },
+    {
+        "question": "What is ELIZA?",
+        "answer": "ELIZA"
+    },
+    {
+        "question": "What is ELIZA?",
+        "answer": "ELIZA"
+    },
+    {
+        "question": "What is ELIZA?",
+        "answer": "ELIZA"
+    },
+    {
+        "question": "Who is Weizenbaum?",
+        "answer": "Weizenbaum"
+    },
+    {
+        "question": "What is ELIZA?",
+        "answer": "ELIZA"
+    },
+    {
+        "question": "When did Among the most notable early chatbots are ELIZA (____) and PARRY (1972).?",
+        "answer": "1966"
+    },
+    {
+        "question": "When did Among the most notable early chatbots are ELIZA (1966) and PARRY (____).?",
+        "answer": "1972"
+    },
+    {
+        "question": "What is A.L.I.C.E.?",
+        "answer": "A.L.I.C.E."
+    },
+    {
+        "question": "What is Agence Nationale de la Recherche?",
+        "answer": "Agence Nationale de la Recherche"
+    },
+    {
+        "question": "When did More recent notable programs include A.L.I.C.E., Jabberwacky and D.U.D.E (Agence Nationale de la Recherche and CNRS ____).?",
+        "answer": "2006"
+    },
+    {
+        "question": "What is ELIZA and PARRY?",
+        "answer": "ELIZA and PARRY"
+    },
+    {
+        "question": "When did In ____, a book called The Policeman's Beard is Half Constructed was published, allegedly written by the chatbot Racter (though the program as released would not have been capable of doing so).?",
+        "answer": "1984"
+    },
+    {
+        "question": "What is The Policeman's Beard?",
+        "answer": "The Policeman's Beard"
+    },
+    {
+        "question": "What is Racter?",
+        "answer": "Racter"
+    },
+    {
+        "question": "When did From ____ to some time after 1983, the CYRUS project led by Janet Kolodner constructed a chatbot simulating Cyrus Vance (57th United States Secretary of State).?",
+        "answer": "1978"
+    },
+    {
+        "question": "When did From 1978 to some time after ____, the CYRUS project led by Janet Kolodner constructed a chatbot simulating Cyrus Vance (57th United States Secretary of State).?",
+        "answer": "1983"
+    },
+    {
+        "question": "Who is Janet Kolodner?",
+        "answer": "Janet Kolodner"
+    },
+    {
+        "question": "Who is Cyrus Vance?",
+        "answer": "Cyrus Vance"
+    },
+    {
+        "question": "Where is United States?",
+        "answer": "United States"
+    },
+    {
+        "question": "What is State?",
+        "answer": "State"
+    },
+    {
+        "question": "When did It used case-based reasoning, and updated its database ____ by parsing wire news from United Press International.?",
+        "answer": "daily"
+    },
+    {
+        "question": "What is United Press International?",
+        "answer": "United Press International"
+    },
+    {
+        "question": "Who is Cyrus Vance?",
+        "answer": "Cyrus Vance"
+    },
+    {
+        "question": "When did The program was unable to process the news items subsequent to the surprise resignation of Cyrus Vance in ____, and the team constructed another chatbot simulating his successor, Edmund Muskie.?",
+        "answer": "April 1980"
+    },
+    {
+        "question": "Who is Edmund Muskie?",
+        "answer": "Edmund Muskie"
+    },
+    {
+        "question": "What is One?",
+        "answer": "One"
+    },
+    {
+        "question": "What is AI?",
+        "answer": "AI"
+    },
+    {
+        "question": "What is A.L.I.C.E.?",
+        "answer": "A.L.I.C.E."
+    },
+    {
+        "question": "What is AIML?",
+        "answer": "AIML"
+    },
+    {
+        "question": "Who is Alicebots?",
+        "answer": "Alicebots"
+    },
+    {
+        "question": "What is A.L.I.C.E.?",
+        "answer": "A.L.I.C.E."
+    },
+    {
+        "question": "What is ELIZA?",
+        "answer": "ELIZA"
+    },
+    {
+        "question": "When did is still purely based on pattern matching techniques without any reasoning capabilities, the same technique ELIZA was using back in ____.?",
+        "answer": "1966"
+    },
+    {
+        "question": "What is Jabberwacky?",
+        "answer": "Jabberwacky"
+    },
+    {
+        "question": "What is Two?",
+        "answer": "Two"
+    },
+    {
+        "question": "What is the Loebner Prize?",
+        "answer": "the Loebner Prize"
+    },
+    {
+        "question": "What is The Chatterbox Challenge?",
+        "answer": "The Chatterbox Challenge"
+    },
+    {
+        "question": "When did Two such annual contests are the Loebner Prize and The Chatterbox Challenge (the latter has been offline since ____, however, materials can still be found from web archives).?",
+        "answer": "2015"
+    },
+    {
+        "question": "What is GPT?",
+        "answer": "GPT"
+    },
+    {
+        "question": "What is GPT?",
+        "answer": "GPT"
+    },
+    {
+        "question": "What is ChatGPT?",
+        "answer": "ChatGPT"
+    },
+    {
+        "question": "What is ChatGPT?",
+        "answer": "ChatGPT"
+    },
+    {
+        "question": "What is BioGPT?",
+        "answer": "BioGPT"
+    },
+    {
+        "question": "What is Microsoft?",
+        "answer": "Microsoft"
+    },
+    {
+        "question": "When did In ____, Amazon announced a new chatbot, called Q, for people to use at work.?",
+        "answer": "November 2023"
+    },
+    {
+        "question": "What is Amazon?",
+        "answer": "Amazon"
+    },
+    {
+        "question": "What is DBpedia?",
+        "answer": "DBpedia"
+    },
+    {
+        "question": "When did DBpedia created a chatbot during ____.?",
+        "answer": "the GSoC of 2017"
+    },
+    {
+        "question": "Who is Facebook Messenger?",
+        "answer": "Facebook Messenger"
+    },
+    {
+        "question": "What is Master of Code Global?",
+        "answer": "Master of Code Global"
+    },
+    {
+        "question": "When did In ____, Facebook Messenger allowed developers to place chatbots on their platform.?",
+        "answer": "2016"
+    },
+    {
+        "question": "Who is Facebook Messenger?",
+        "answer": "Facebook Messenger"
+    },
+    {
+        "question": "What is 30,000?",
+        "answer": "30,000"
+    },
+    {
+        "question": "Who is Messenger?",
+        "answer": "Messenger"
+    },
+    {
+        "question": "When did There were 30,000 bots created for Messenger in ____, rising to 100,000 by September 2017.?",
+        "answer": "the first six months"
+    },
+    {
+        "question": "What is 100,000?",
+        "answer": "100,000"
+    },
+    {
+        "question": "When did There were 30,000 bots created for Messenger in the first six months, rising to 100,000 by ____.?",
+        "answer": "September 2017"
+    },
+    {
+        "question": "When did Since ____, this has also been as part of a pilot program on WhatsApp.?",
+        "answer": "September 2017"
+    },
+    {
+        "question": "What is WhatsApp?",
+        "answer": "WhatsApp"
+    },
+    {
+        "question": "What is Airlines KLM?",
+        "answer": "Airlines KLM"
+    },
+    {
+        "question": "What is Aerom\u00e9xico?",
+        "answer": "Aerom\u00e9xico"
+    },
+    {
+        "question": "What is Facebook Messenger?",
+        "answer": "Facebook Messenger"
+    },
+    {
+        "question": "When did A ____ study showed 4% of companies used chatbots.?",
+        "answer": "2017"
+    },
+    {
+        "question": "What is 4%?",
+        "answer": "4%"
+    },
+    {
+        "question": "When did According to a ____ study, 80% of businesses said they intended to have one by 2020.?",
+        "answer": "2016"
+    },
+    {
+        "question": "What is 80%?",
+        "answer": "80%"
+    },
+    {
+        "question": "What is one?",
+        "answer": "one"
+    },
+    {
+        "question": "When did According to a 2016 study, 80% of businesses said they intended to have one by ____.?",
+        "answer": "2020"
+    },
+    {
+        "question": "Who is Jenn?",
+        "answer": "Jenn"
+    },
+    {
+        "question": "What is Alaska Airlines?",
+        "answer": "Alaska Airlines"
+    },
+    {
+        "question": "When did Ask Jenn from Alaska Airlines which debuted in ____ or Expedia's virtual customer service agent which launched in 2011.?",
+        "answer": "2008"
+    },
+    {
+        "question": "What is Expedia?",
+        "answer": "Expedia"
+    },
+    {
+        "question": "When did Ask Jenn from Alaska Airlines which debuted in 2008 or Expedia's virtual customer service agent which launched in ____.?",
+        "answer": "2011"
+    },
+    {
+        "question": "What is IBM?",
+        "answer": "IBM"
+    },
+    {
+        "question": "When did The newer generation of chatbots includes IBM Watson-powered \"Rocky\", introduced in ____ by the New York City-based e-commerce company Rare Carat to provide information to prospective diamond buyers.?",
+        "answer": "February 2017"
+    },
+    {
+        "question": "Where is New York City?",
+        "answer": "New York City"
+    },
+    {
+        "question": "What is Rare Carat?",
+        "answer": "Rare Carat"
+    },
+    {
+        "question": "What is Customer Support, Human Resources?",
+        "answer": "Customer Support, Human Resources"
+    },
+    {
+        "question": "What is Overstock.com?",
+        "answer": "Overstock.com"
+    },
+    {
+        "question": "Who is Mila?",
+        "answer": "Mila"
+    },
+    {
+        "question": "What is Lloyds Banking Group?",
+        "answer": "Lloyds Banking Group"
+    },
+    {
+        "question": "What is Royal Bank of Scotland?",
+        "answer": "Royal Bank of Scotland"
+    },
+    {
+        "question": "What is Renault?",
+        "answer": "Renault"
+    },
+    {
+        "question": "What is Citro\u00ebn?",
+        "answer": "Citro\u00ebn"
+    },
+    {
+        "question": "What is first?",
+        "answer": "first"
+    },
+    {
+        "question": "What is SaaS?",
+        "answer": "SaaS"
+    },
+    {
+        "question": "What is the F8 Conference?",
+        "answer": "the F8 Conference"
+    },
+    {
+        "question": "What is Facebook?",
+        "answer": "Facebook"
+    },
+    {
+        "question": "Who is Mark Zuckerberg?",
+        "answer": "Mark Zuckerberg"
+    },
+    {
+        "question": "Who is Messenger?",
+        "answer": "Messenger"
+    },
+    {
+        "question": "What is Intelligent Chatbots?",
+        "answer": "Intelligent Chatbots"
+    },
+    {
+        "question": "What is NLU?",
+        "answer": "NLU"
+    },
+    {
+        "question": "What is AI?",
+        "answer": "AI"
+    },
+    {
+        "question": "What is billions of dollars?",
+        "answer": "billions of dollars"
+    },
+    {
+        "question": "When did Several studies report significant reduction in the cost of customer services, expected to lead to billions of dollars of economic savings in ____.?",
+        "answer": "the next ten years"
+    },
+    {
+        "question": "When did In ____, Gartner predicted that by 2021, 15% of all customer service interactions globally will be handled completely by AI.?",
+        "answer": "2019"
+    },
+    {
+        "question": "What is Gartner?",
+        "answer": "Gartner"
+    },
+    {
+        "question": "When did In 2019, Gartner predicted that by ____, 15% of all customer service interactions globally will be handled completely by AI.?",
+        "answer": "2021"
+    },
+    {
+        "question": "What is 15%?",
+        "answer": "15%"
+    },
+    {
+        "question": "What is Juniper Research?",
+        "answer": "Juniper Research"
+    },
+    {
+        "question": "When did A study by Juniper Research in ____ estimates retail sales resulting from chatbot-based interactions will reach $112 billion by 2023.?",
+        "answer": "2019"
+    },
+    {
+        "question": "What is $112 billion?",
+        "answer": "$112 billion"
+    },
+    {
+        "question": "When did A study by Juniper Research in 2019 estimates retail sales resulting from chatbot-based interactions will reach $112 billion by ____.?",
+        "answer": "2023"
+    },
+    {
+        "question": "When did Since ____, when Facebook allowed businesses to deliver automated customer support, e-commerce guidance, content, and interactive experiences through chatbots, a large variety of chatbots were developed for the Facebook Messenger platform.?",
+        "answer": "2016"
+    },
+    {
+        "question": "What is Facebook?",
+        "answer": "Facebook"
+    },
+    {
+        "question": "What is Facebook Messenger?",
+        "answer": "Facebook Messenger"
+    },
+    {
+        "question": "When did In ____, Russia-based Tochka Bank launched the world's first Facebook bot for a range of financial services, including a possibility of making payments.?",
+        "answer": "2016"
+    },
+    {
+        "question": "Where is Russia?",
+        "answer": "Russia"
+    },
+    {
+        "question": "What is Tochka Bank?",
+        "answer": "Tochka Bank"
+    },
+    {
+        "question": "What is first?",
+        "answer": "first"
+    },
+    {
+        "question": "What is Facebook?",
+        "answer": "Facebook"
+    },
+    {
+        "question": "When did In ____, Barclays Africa also launched a Facebook chatbot, making it the first bank to do so in Africa.?",
+        "answer": "July 2016"
+    },
+    {
+        "question": "What is Barclays Africa?",
+        "answer": "Barclays Africa"
+    },
+    {
+        "question": "What is Facebook?",
+        "answer": "Facebook"
+    },
+    {
+        "question": "What is first?",
+        "answer": "first"
+    },
+    {
+        "question": "What is Africa?",
+        "answer": "Africa"
+    },
+    {
+        "question": "Where is France?",
+        "answer": "France"
+    },
+    {
+        "question": "What is third?",
+        "answer": "third"
+    },
+    {
+        "question": "What is Soci\u00e9t\u00e9 G\u00e9n\u00e9rale?",
+        "answer": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale"
+    },
+    {
+        "question": "What is SoBot?",
+        "answer": "SoBot"
+    },
+    {
+        "question": "When did The France's third-largest bank by total assets Soci\u00e9t\u00e9 G\u00e9n\u00e9rale launched their chatbot called SoBot in ____.?",
+        "answer": "March 2018"
+    },
+    {
+        "question": "What is 80%?",
+        "answer": "80%"
+    },
+    {
+        "question": "What is SoBot?",
+        "answer": "SoBot"
+    },
+    {
+        "question": "What is Soci\u00e9t\u00e9 G\u00e9n\u00e9rale?",
+        "answer": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale"
+    },
+    {
+        "question": "Who is Bertrand Cozzarolo?",
+        "answer": "Bertrand Cozzarolo"
+    },
+    {
+        "question": "Where is the United States?",
+        "answer": "the United States"
+    },
+    {
+        "question": "What is GPT?",
+        "answer": "GPT"
+    },
+    {
+        "question": "What is ChatGPT?",
+        "answer": "ChatGPT"
+    },
+    {
+        "question": "What is the World Health Organization?",
+        "answer": "the World Health Organization"
+    },
+    {
+        "question": "When did In ____, The Indian Government launched a chatbot called MyGov Corona Helpdesk, that worked through Whatsapp and helped people access information about the Coronavirus (COVID-19) pandemic.?",
+        "answer": "2020"
+    },
+    {
+        "question": "What is The Indian Government?",
+        "answer": "The Indian Government"
+    },
+    {
+        "question": "What is MyGov Corona Helpdesk?",
+        "answer": "MyGov Corona Helpdesk"
+    },
+    {
+        "question": "What is 6%?",
+        "answer": "6%"
+    },
+    {
+        "question": "What is 3%?",
+        "answer": "3%"
+    },
+    {
+        "question": "What is 67%?",
+        "answer": "67%"
+    },
+    {
+        "question": "What is one?",
+        "answer": "one"
+    },
+    {
+        "question": "When did The analysis showed that while 6% had heard of a health chatbot and 3% had experience of using it, 67% perceived themselves as likely to use one within ____.?",
+        "answer": "12 months"
+    },
+    {
+        "question": "What is 78%?",
+        "answer": "78%"
+    },
+    {
+        "question": "What is 78%?",
+        "answer": "78%"
+    },
+    {
+        "question": "What is 80%?",
+        "answer": "80%"
+    },
+    {
+        "question": "What is 73%?",
+        "answer": "73%"
+    },
+    {
+        "question": "What is 93%?",
+        "answer": "93%"
+    },
+    {
+        "question": "What is 80%?",
+        "answer": "80%"
+    },
+    {
+        "question": "What is 66%?",
+        "answer": "66%"
+    },
+    {
+        "question": "What is 65%?",
+        "answer": "65%"
+    },
+    {
+        "question": "What is 30%?",
+        "answer": "30%"
+    },
+    {
+        "question": "What is 41%?",
+        "answer": "41%"
+    },
+    {
+        "question": "What is about half?",
+        "answer": "about half"
+    },
+    {
+        "question": "Where is New Zealand?",
+        "answer": "New Zealand"
+    },
+    {
+        "question": "What is SAM?",
+        "answer": "SAM"
+    },
+    {
+        "question": "What is Semantic Analysis Machine?",
+        "answer": "Semantic Analysis Machine"
+    },
+    {
+        "question": "Who is Nick Gerritsen?",
+        "answer": "Nick Gerritsen"
+    },
+    {
+        "question": "Where is Touchtech?",
+        "answer": "Touchtech"
+    },
+    {
+        "question": "Who is Facebook Messenger?",
+        "answer": "Facebook Messenger"
+    },
+    {
+        "question": "When did In ____, the chatbot \"Leader Lars\" or \"Leder Lars\" was nominated for The Synthetic Party to run in the Danish parliamentary election, and was built by the artist collective Computer Lars.?",
+        "answer": "2022"
+    },
+    {
+        "question": "Who is Lars?",
+        "answer": "Lars"
+    },
+    {
+        "question": "What is Leder Lars?",
+        "answer": "Leder Lars"
+    },
+    {
+        "question": "What is The Synthetic Party?",
+        "answer": "The Synthetic Party"
+    },
+    {
+        "question": "What is Danish?",
+        "answer": "Danish"
+    },
+    {
+        "question": "What is Computer Lars?",
+        "answer": "Computer Lars"
+    },
+    {
+        "question": "Who is Lars?",
+        "answer": "Lars"
+    },
+    {
+        "question": "Where is India?",
+        "answer": "India"
+    },
+    {
+        "question": "Who is Aaple Sarkar?",
+        "answer": "Aaple Sarkar"
+    },
+    {
+        "question": "What is EMMA?",
+        "answer": "EMMA"
+    },
+    {
+        "question": "What is more than 500,000?",
+        "answer": "more than 500,000"
+    },
+    {
+        "question": "When did For example, EMMA answers more than 500,000 inquiries ____, regarding services on citizenship and immigration in the US.?",
+        "answer": "monthly"
+    },
+    {
+        "question": "Where is US?",
+        "answer": "US"
+    },
+    {
+        "question": "Who is Barbie?",
+        "answer": "Barbie"
+    },
+    {
+        "question": "Where is ToyTalk?",
+        "answer": "ToyTalk"
+    },
+    {
+        "question": "Who is Cayla?",
+        "answer": "Cayla"
+    },
+    {
+        "question": "What is 18-inch?",
+        "answer": "18-inch"
+    },
+    {
+        "question": "What is 46 cm?",
+        "answer": "46 cm"
+    },
+    {
+        "question": "What is Android?",
+        "answer": "Android"
+    },
+    {
+        "question": "Who is Barbie?",
+        "answer": "Barbie"
+    },
+    {
+        "question": "What is Bluetooth?",
+        "answer": "Bluetooth"
+    },
+    {
+        "question": "What is IBM?",
+        "answer": "IBM"
+    },
+    {
+        "question": "Who is Watson?",
+        "answer": "Watson"
+    },
+    {
+        "question": "What is CogniToys?",
+        "answer": "CogniToys"
+    },
+    {
+        "question": "What is Yahoo?",
+        "answer": "Yahoo"
+    },
+    {
+        "question": "What is Windows Live Messenger?",
+        "answer": "Windows Live Messenger"
+    },
+    {
+        "question": "What is AOL Instant?",
+        "answer": "AOL Instant"
+    },
+    {
+        "question": "Who is Tay?",
+        "answer": "Tay"
+    },
+    {
+        "question": "What is AI?",
+        "answer": "AI"
+    },
+    {
+        "question": "What is Twitter?",
+        "answer": "Twitter"
+    },
+    {
+        "question": "What is third?",
+        "answer": "third"
+    },
+    {
+        "question": "What is third?",
+        "answer": "third"
+    },
+    {
+        "question": "Who is Chatbot?",
+        "answer": "Chatbot"
+    },
+    {
+        "question": "What is Forrester?",
+        "answer": "Forrester"
+    },
+    {
+        "question": "When did A study by Forrester (____) predicted that 25% of all jobs would be impacted by AI technologies by 2019.?",
+        "answer": "June 2017"
+    },
+    {
+        "question": "What is 25%?",
+        "answer": "25%"
+    },
+    {
+        "question": "When did A study by Forrester (June 2017) predicted that 25% of all jobs would be impacted by AI technologies by ____.?",
+        "answer": "2019"
+    },
+    {
+        "question": "When did Prompt Engineering, the task of designing and refining prompts (inputs) leading to desired AI-generated responses has gained significant demand and popularity in ____, with the advent of sophisticated models, notably OpenAI\u2019s GPT series (which still contain notable flaws and limitations, as previously outlined).?",
+        "answer": "recent years"
+    },
+    {
+        "question": "What is OpenAI?",
+        "answer": "OpenAI"
+    },
+    {
+        "question": "What is GPT?",
+        "answer": "GPT"
+    }
+]
